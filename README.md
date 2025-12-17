@@ -1,6 +1,10 @@
 # aplikasi_anak7g
 
-A new Flutter project.
+Aplikasi Pengatur Keuangan Anak Kos Berbasis Flutter
+Aplikasi ini di buat oleh kelompok 6 sebagai tugas akhir
+1. Figo Putra Erlant
+2. Muhammad Daffa
+3. Muhammad Hanif Al-Muttaqin
 
 ## Getting Started
 
